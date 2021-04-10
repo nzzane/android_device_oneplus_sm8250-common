@@ -378,8 +378,7 @@ PRODUCT_BOOT_JARS += \
 
 # Power
 PRODUCT_PACKAGES += \
-    android.hardware.power-service-qti \
-    vendor.qti.hardware.perf@2.0.vendor
+    android.hardware.power-service.oneplus_kona
 
 # QMI
 PRODUCT_PACKAGES += \
