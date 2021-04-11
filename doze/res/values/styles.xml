@@ -18,9 +18,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <style name="Theme.Main" parent="@android:style/Theme.DeviceDefault.Settings">
         <item name="dialogPreferenceStyle">@style/Theme.Main.DialogPreferenceStyle</item>
-        <item name="preferenceCategoryStyle">@style/Theme.Main.PreferenceCategoryStyle</item>
         <item name="preferenceFragmentStyle">@style/Theme.Main.PreferenceFragmentStyle</item>
-        <item name="preferenceStyle">@style/Theme.Main.PreferenceStyle</item>
         <item name="preferenceTheme">@style/Theme.Main.PreferenceTheme</item>
         <item name="switchPreferenceStyle">@style/Theme.Main.SwitchPreferenceStyle</item>
     </style>
