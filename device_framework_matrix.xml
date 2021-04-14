@@ -192,14 +192,6 @@
             <name>IFingerprintInscreen</name>
             <instance>default</instance>
         </interface>
-    </hal>
-    <hal format="hidl" optional="true">
-        <name>vendor.lineage.livedisplay</name>
-        <version>2.1</version>
-        <interface>
-            <name>IAntiFlicker</name>
-            <instance>default</instance>
-        </interface>
         <interface>
             <name>IDisplayModes</name>
             <instance>default</instance>
@@ -217,30 +209,6 @@
         <name>vendor.lineage.power</name>
         <interface>
             <name>IPower</name>
-            <instance>default</instance>
-        </interface>
-    </hal>
-    <hal format="hidl" optional="true">
-        <name>vendor.lineage.powershare</name>
-        <version>1.0</version>
-        <interface>
-            <name>IPowerShare</name>
-            <instance>default</instance>
-        </interface>
-    </hal>
-    <hal format="hidl" optional="true">
-        <name>vendor.lineage.touch</name>
-        <version>1.0</version>
-        <interface>
-            <name>ITouchscreenGesture</name>
-            <instance>default</instance>
-        </interface>
-    </hal>
-    <hal format="hidl" optional="true">
-        <name>vendor.lineage.trust</name>
-        <version>1.0</version>
-        <interface>
-            <name>IUsbRestrict</name>
             <instance>default</instance>
         </interface>
     </hal>
